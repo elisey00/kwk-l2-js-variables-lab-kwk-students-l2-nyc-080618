@@ -1,5 +1,4 @@
-let companyName=
-'Scuber';
+
 const expect = chai.expect;
 
 describe('index.js', function () {
