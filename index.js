@@ -4,4 +4,4 @@ let companyName=
 let mostProfitableNeighborhood==
 "Chelsea";
 let companyCeo==
-"L"
+"Susan Smith";
