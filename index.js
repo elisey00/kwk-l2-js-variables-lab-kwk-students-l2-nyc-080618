@@ -1,2 +1,3 @@
 // Code your solution in this file!
-let
+let companyName=
+'Scuber';
