@@ -2,7 +2,9 @@
 let companyName=
 'Scuber';
 companyName== 'specialCompany';
-let mostProfitableNeighborhood==
+let mostProfitableNeighborhood=
 "Chelsea";
-let companyCeo==
+mostProfitableNeighborhood== 'Upper West Side';
+let companyCeo=
 "Susan Smith";
+companyCeo== ""
